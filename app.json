@@ -1,0 +1,7 @@
+{
+  "name": "Kazune hubot",
+  "description": "Kazune bot dayo.",
+  "repository": "https://github.com/kazunematiks/kazune-hubot",
+  "logo": "https://github.com/kazunematiks/kazune-hubot/blob/master/assets/icon.png",
+  "keywords": ["hubot", "kazune"]
+}
