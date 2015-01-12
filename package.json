@@ -5,6 +5,7 @@
   "author": "hisonl <hisonlex@gmail.com>",
   "description": "Kazunematiks",
   "dependencies": {
+    "cron": "^1.0.5",
     "hubot": "^2.10.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.2",
